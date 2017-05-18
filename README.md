@@ -11,6 +11,8 @@ Here is what i will attempt to cover in this repository:
 
 /////////////////////////////////////////////  GENERAL  //////////////////////////////////////////////////////
 
+Produce the Fizz Buzz program. Numbers are counted up from 1, if the number is divisible by 3 is replaced with the word FIZZ
+and any number divisible by 5 is replaced with the word BUZZ. If the number is divisible by both it is replaced with FIZZBUZZ.
 
 Find the most frequent integer in an array
 
