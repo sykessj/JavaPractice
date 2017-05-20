@@ -1,4 +1,4 @@
-package general_fizzBuzz;
+package general1_fizzBuzz;
 
 public class Main {
 

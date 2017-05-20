@@ -1,4 +1,4 @@
-package general_integersSum10;
+package general3_integersSum10;
 
 import java.util.HashMap;
 import java.util.Map;

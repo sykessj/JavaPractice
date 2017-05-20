@@ -1,4 +1,4 @@
-package general_arrayFrequency;
+package general2_arrayFrequency;
 
 import java.util.HashMap;
 import java.util.Map;

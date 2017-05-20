@@ -1,4 +1,4 @@
-package general_elementOccursOnce;
+package general6_elementOccursOnce;
 
 import java.util.ArrayList;
 import java.util.HashMap;

@@ -1,4 +1,4 @@
-package general_fibbonaci;
+package general5_fibonacci;
 
 public class Iterative {
 
