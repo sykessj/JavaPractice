@@ -5,3 +5,4 @@ Hash maps
 Log notation O(n^2) & O(n log n)
 Recursion
 dynamic programming
+Methods (public, static, void, etc)

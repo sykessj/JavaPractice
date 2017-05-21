@@ -24,7 +24,7 @@ and any number divisible by 5 is replaced with the word BUZZ. If the number is d
 
 6. <<COMPLETE>> Find the only element in an array that only occurs once.
 
-7. Find the common elements of 2 int arrays
+7. <<COMPLETE>> Find the common elements of 2 int arrays
 
 8. Implement binary search of a sorted array of integers
 
