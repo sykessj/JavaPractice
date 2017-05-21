@@ -40,7 +40,7 @@ and any number divisible by 5 is replaced with the word BUZZ. If the number is d
 
 14. Implement an exponent function (bonus: now try in log(n) time)
 
-15. Write a multiply function that multiples 2 integers without using *
+15. <<COMPLETE>> Write a multiply function that multiples 2 integers without using *
 
 16. HARD: Given a function rand5() that returns a random int between 0 and 5, implement rand7()
 
