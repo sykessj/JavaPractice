@@ -1,0 +1,30 @@
+elements of report
+
+Cover page
+Contents
+Introduction
+System overview/requirements
+
+Diagrams:
+Use case
+Class
+Sequence 
+Architecture
+
+design pattern
+How to run the software
+Evidence of running
+
+Testing
+System Junit tests 
+TDD approach
+How the system and tests should be launched
+
+Test the actual program
+
+Critical evaluaton
+-Why did you choose this design pattern?
+-Why is the system structured this way?
+
+
+
